@@ -284,3 +284,4 @@ Outputs:
       Fn::GetAtt:
       - UserReceiverFunction
       - Arn
+
